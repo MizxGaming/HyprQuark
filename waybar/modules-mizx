@@ -205,7 +205,7 @@
     "on-click": "pamixer -t",
     "on-scroll-up": "pamixer -i 1",
     "on-scroll-down": "pamixer -d 1",
-    "on-click-right": "pavucontrol",
+    "on-click-right": "pavucontrol --tab=5",
     "scroll-step": 5,
     "format-icons": {
         "headphone": "",

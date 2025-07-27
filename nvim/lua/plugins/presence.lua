@@ -6,7 +6,7 @@ return {
       auto_update = true,
       neovim_image_text = "The One True Editor",
       main_image = "neovim",
-      log_level = "info",
+      log_level = "warn",
       debounce_timeout = 10,
       enable_line_number = false,
       show_time = true,
