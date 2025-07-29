@@ -60,7 +60,7 @@ mainbox {
 imagebox {
   padding: 10px;
   background-color: transparent;
-  background-image: url("/home/mizx/Pictures/Walls/hunter.png", both);
+  background-image: url("/home/mizx/.config/Walls/hunter.png", both);
   orientation: vertical;
   children: [ "inputbar", "dummy", "mode-switcher"];
 }
